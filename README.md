@@ -16,7 +16,10 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The reason why factorials become incorrect after 15 
+is that the factorial values grow very rapidly,
+ exceeding the capacity of a regular integer to hold 
+ the value.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +29,11 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+Is it correct up to 30? Yes, it is correct up to 30
+How high can you make it go?it changed it up to 10000 but
+ it still can run it. I think it still can make 
+ more if our computer is a high specs. 
+
 ```
 
 ## Submission
